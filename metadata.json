@@ -1,0 +1,8 @@
+{
+  "name": "Mirror + Ledger | مراية + دفتر",
+  "description": "Action Ledger + Feeling Mirror — Local-first habit reflection with optional Cloud SQL sync, Focus Map, 3D Sanctuary, Ambient Sounds, and Orbital Balance game. Gemini features are turned off in this public build.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
